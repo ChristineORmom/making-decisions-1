@@ -28,14 +28,17 @@ var brittanisBirthYear = 1986
 */
 
 if (brittanisAge > amysAge) {
-    console.log('brittani is older')}
-else (brittanisAge > amysAge && brittanisAge === amysAge) {
-    console.log('the same age')}
+    console.log('Brittani is older')}
+else if (amysAge > brittanisAge) {
+    console.log('Amy is older')}
+else {
+    console.log('same age') }
    
     
 
 
 ////////// PROBLEM 3 //////////
+
 
 /*
   Using an if statement and a comparison operator, create code that will check if Amy and Brittani were born in the same year. If they were, console.log 'Amy & Brittani were born in the same year'. If they were not, console.log 'Amy & Brittani were not born in the same year'
