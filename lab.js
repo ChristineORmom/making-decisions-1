@@ -46,8 +46,8 @@ else {
 
 if (brittanisBirthYear === amysBirthYear) {
     console.log('Brittani & Amy were born in the same year')}
-else (brittanisBirthYear !== amysBirthYear) {
-    console.log('Brittani & Amy were not born in the same year')
+else  {
+    console.log('Brittani & Amy were born in the same year')
 }
 
 
