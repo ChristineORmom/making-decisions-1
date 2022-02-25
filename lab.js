@@ -44,7 +44,11 @@ else {
   Using an if statement and a comparison operator, create code that will check if Amy and Brittani were born in the same year. If they were, console.log 'Amy & Brittani were born in the same year'. If they were not, console.log 'Amy & Brittani were not born in the same year'
 */
 
-
+if (brittanisBirthYear === amysBirthYear) {
+    console.log('Brittani & Amy were born in the same year')}
+else (brittanisBirthYear !== amysBirthYear) {
+    console.log('Brittani & Amy were not born in the same year')
+}
 
 
 ////////// PROBLEM 4 //////////
