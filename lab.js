@@ -94,7 +94,9 @@ for (let i = 10; i <= 20; i++) {
   Create a for-loop that runs 10 times, logging the numbers 1 through 10. Ex, on the first iteration it would log 1, on the second iteration it would log 2.
 */
 
-//CODE HERE
+for (let i = 1; i < 11; i++) {
+  console.log(i)
+}
 
 
 ////////// PROBLEM 7 //////////
