@@ -78,14 +78,14 @@ else {
 
 
 
-
 ////////// PROBLEM 5 //////////
 
-/*
-  Create a for-loop that runs 10 times, and on each iteration logs the word 'hello'.
-*/
+//*Create a for-loop that runs 10 times, and on each iteration logs the word 'hello'.*/
 
-//CODE HERE
+for (let i = 10; i <= 20; i++) {
+  console.log('hello')
+}
+
 
 
 ////////// PROBLEM 6 //////////
